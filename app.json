@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "NightLock",
+    "slug": "nightlock",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#030712"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#030712"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
